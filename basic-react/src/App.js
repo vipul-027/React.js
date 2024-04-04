@@ -1,10 +1,14 @@
 
-
+import Coffee from './Coffee'; 
 
 function App() {
   return (
-   
-         <div>learn react</div>
+            <>
+            <Coffee/>
+
+             <h1>learn react</h1> 
+            </>
+       
         
   );
 }
